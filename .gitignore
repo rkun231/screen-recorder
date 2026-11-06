@@ -1,0 +1,5 @@
+*.exe
+ffmpeg.exe
+out/
+*.o
+*.log
